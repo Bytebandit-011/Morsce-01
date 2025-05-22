@@ -22,17 +22,20 @@ This is a simple Python program that lets you **encode** plain English text into
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository or copy the script.
-2. Run the Python script:
-
-```bash
-python morse_code.py
-
 Input: Hello World
 Output: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 
 Input: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 Output: HELLO WORLD
+
+---
+## 🚀 How to Run
+
+1. Clone the repository or copy the script.
+2. Run the Python script:
+
+
+```bash
+python morse_code.py
+
 
