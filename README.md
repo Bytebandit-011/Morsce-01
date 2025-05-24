@@ -22,11 +22,11 @@ This is a simple Python program that lets you **encode** plain English text into
 
 ---
 
-Input: Hello World
-Output: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
+Input: Hello World<br>
+Output: .... . .-.. .-.. --- / .-- --- .-. .-.. -..<br>
 
-Input: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
-Output: HELLO WORLD
+Input: .... . .-.. .-.. --- / .-- --- .-. .-.. -..<br>
+Output: HELLO WORLD<br>
 
 ---
 ## 🚀 How to Run
